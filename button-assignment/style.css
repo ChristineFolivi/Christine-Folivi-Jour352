@@ -1,6 +1,8 @@
-red button{background-color: red;
+button {
+background-color: red;
 color: white;
-Font-size: 30px;
-border-bottom: none;
+font-size: 30px;
+border: none;
 Width: 200px;
 }
+
