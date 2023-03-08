@@ -4,13 +4,15 @@ color: white;
 font-size: 30px;
 border: black;
 Width: 200px;
-
+padding: 25px 50px 75px 100px;
+margin: 25px 50px 75px 100px;
+ 
 }
 
 h1 {
 font-family: inherit;
 background-color: ;
-color:aqua;
+color:black;
 font-size: 30px;
 
     
@@ -18,9 +20,13 @@ font-size: 30px;
 
 h2{
 font-family: cursive;
-background-color: red;
-color: white;
-font-size: 30px;
+background-color:;
+color: black;
+font-size:30px;
+font-weight:300
+text-transform:capitalize;
+letter-spacing:normal;
+
 
     
 }
