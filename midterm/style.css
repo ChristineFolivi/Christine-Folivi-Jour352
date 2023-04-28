@@ -1,0 +1,65 @@
+@media{
+    
+body{
+        font-family:georgia-serif;
+    }
+    
+#article{
+        width:70%;
+        margin:auto;
+    }
+    
+h1{
+        font-size: 80px;
+    }
+    
+#Date{
+        color:gray;
+        font-size: 10px;   
+    }
+ #Byline {
+     
+     font-weight: bold;
+    }
+    
+#lead{
+        width:100%;
+        
+    }
+    
+    
+}
+@media (min-width:576px){
+    
+    body{
+        font-family:georgia-serif;
+    }
+    
+#article{
+        width:70%;
+        margin:auto;
+    }
+    
+h1{
+        font-size: 100px;
+    }
+    
+#Date{
+        color:gray;
+        font-size: 10px;   
+    }
+ #Byline {
+     
+     font-weight: bold;
+    }
+    
+#lead{
+        width:100%;
+
+        
+    }
+    #Headshot {
+        float:left;
+        width: 30px;
+    }
+}
