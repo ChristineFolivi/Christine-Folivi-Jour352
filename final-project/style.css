@@ -29,7 +29,12 @@
         background-repeat: no-repeat;
         background-size: cover;
     }    
-    
+    .caption {
+        font-size:10px;
+        color:#B0B2B8;
+        padding: 5px 25% 0px 7px;
+        font-family: 'DM Sans', monospace
+    }
     
 img {
     width:100%
