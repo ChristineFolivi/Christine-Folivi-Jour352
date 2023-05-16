@@ -50,8 +50,18 @@ body{
     height:2%;
     font-family: 'forum', sans-serif;
     padding: 20px 20px 0px 20px;
-    font-size: 50px;
+    font-size: 10px;
     color:#0f0f0e;
+    font-weight: 300;
+    Width: 200px;
+    border-radius: 500px;
+    margin: 25px 0px 0px 0px;
+    outline:10px solid purple;
+   
+        
+    }
+    .attribution{
+        
     }
 
 h1 {
